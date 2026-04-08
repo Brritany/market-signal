@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Signal</title>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="hero">
+      <div class="hero-text">
+        <h1>Market Signal</h1>
+        <p class="subtitle">Stress Index & Opportunity Index Dashboard</p>
+      </div>
+
+      <div class="update-box">
+        <span class="update-label">Last Update</span>
+        <span id="updatedAt">-</span>
+      </div>
+    </header>
+
+    <section class="card toolbar">
+      <div class="toolbar-inner">
+        <label for="marketSelect">Select Market</label>
+        <select id="marketSelect"></select>
+      </div>
+    </section>
+
+    <section class="summary-grid">
+      <div class="card metric-card">
+        <span class="metric-label">Price</span>
+        <span id="priceValue" class="metric-value">-</span>
+      </div>
+      <div class="card metric-card">
+        <span class="metric-label">Stress Regime</span>
+        <span id="stressRegime" class="metric-value">-</span>
+      </div>
+      <div class="card metric-card">
+        <span class="metric-label">Opportunity Regime</span>
+        <span id="opportunityRegime" class="metric-value">-</span>
+      </div>
+      <div class="card metric-card signal-card">
+        <span class="metric-label">Action Signal</span>
+        <span id="signalValue" class="metric-value">-</span>
+      </div>
+    </section>
+
+    <section class="gauge-grid">
+      <div class="card gauge-card">
+        <div class="card-title center">Stress Index</div>
+        <div id="stressGauge" class="gauge"></div>
+      </div>
+      <div class="card gauge-card">
+        <div class="card-title center">Opportunity Index</div>
+        <div id="opportunityGauge" class="gauge"></div>
+      </div>
+    </section>
+
+    <section class="card chart-card">
+      <div class="card-title center chart-title">Historical Trend</div>
+      <div id="chart"></div>
+    </section>
+
+    <section class="card guide-card">
+      <div class="card-title center">How to Use This Index</div>
+      <div class="guide-grid">
+        <div class="guide-block">
+          <h3>Stress Index</h3>
+          <p>
+            Measures current market pressure. A higher value suggests
+            stronger fear, risk aversion, and market stress.
+          </p>
+        </div>
+        <div class="guide-block">
+          <h3>Opportunity Index</h3>
+          <p>
+            Measures whether the market is becoming attractive for gradual
+            accumulation. A higher value suggests better buy-on-weakness conditions.
+          </p>
+        </div>
+        <div class="guide-block">
+          <h3>Suggested Interpretation</h3>
+          <ul>
+            <li><strong>0–25:</strong> Calm / low opportunity</li>
+            <li><strong>25–50:</strong> Neutral / monitor</li>
+            <li><strong>50–75:</strong> Watchlist / consider scaling in</li>
+            <li><strong>75–100:</strong> High opportunity / accumulate carefully</li>
+          </ul>
+        </div>
+        <div class="guide-block">
+          <h3>Important Note</h3>
+          <p>
+            This dashboard is designed for market monitoring and decision support.
+            It should be used together with trend, valuation, and risk management,
+            not as a standalone trading signal.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer-note">
+      For educational and decision-support purposes only. Not investment advice.
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
