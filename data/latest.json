@@ -4,20 +4,20 @@
     {
       "symbol": "SPY",
       "name": "S&P 500 ETF",
-      "price": 679.34,
-      "fear_index": 62.69,
+      "price": 679.91,
+      "fear_index": 61.92,
       "regime": "Fear",
-      "opportunity_index": 63.3,
+      "opportunity_index": 62.67,
       "opportunity_regime": "Watchlist",
       "signal": "Watchlist"
     },
     {
       "symbol": "QQQ",
       "name": "Nasdaq 100 ETF",
-      "price": 608.32,
-      "fear_index": 63.72,
+      "price": 610.19,
+      "fear_index": 62.6,
       "regime": "Fear",
-      "opportunity_index": 63.35,
+      "opportunity_index": 62.41,
       "opportunity_regime": "Watchlist",
       "signal": "Watchlist"
     },
@@ -25,9 +25,9 @@
       "symbol": "^TWII",
       "name": "Taiwan Weighted Index",
       "price": 34761.38,
-      "fear_index": 52.14,
+      "fear_index": 51.9,
       "regime": "Fear",
-      "opportunity_index": 57.57,
+      "opportunity_index": 57.3,
       "opportunity_regime": "Watchlist",
       "signal": "Watchlist"
     },
@@ -35,9 +35,9 @@
       "symbol": "0050.TW",
       "name": "Yuanta Taiwan 50 ETF",
       "price": 79.2,
-      "fear_index": 55.38,
+      "fear_index": 55.17,
       "regime": "Fear",
-      "opportunity_index": 60.12,
+      "opportunity_index": 59.85,
       "opportunity_regime": "Watchlist",
       "signal": "Watchlist"
     }
