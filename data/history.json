@@ -346,19 +346,19 @@
       "date": "2010-12-10",
       "price": 94.47,
       "fear_index": 24.09,
-      "opportunity_index": 19.56
+      "opportunity_index": 19.52
     },
     {
       "date": "2010-12-13",
       "price": 94.53,
       "fear_index": 23.76,
-      "opportunity_index": 18.73
+      "opportunity_index": 18.72
     },
     {
       "date": "2010-12-14",
       "price": 94.61,
       "fear_index": 21.24,
-      "opportunity_index": 18.14
+      "opportunity_index": 18.13
     },
     {
       "date": "2010-12-15",
@@ -934,25 +934,25 @@
       "date": "2011-04-27",
       "price": 103.95,
       "fear_index": 33.14,
-      "opportunity_index": 20.22
+      "opportunity_index": 20.19
     },
     {
       "date": "2011-04-28",
       "price": 104.29,
       "fear_index": 32.22,
-      "opportunity_index": 19.18
+      "opportunity_index": 19.17
     },
     {
       "date": "2011-04-29",
       "price": 104.54,
       "fear_index": 31.95,
-      "opportunity_index": 18.38
+      "opportunity_index": 18.37
     },
     {
       "date": "2011-05-02",
       "price": 104.38,
       "fear_index": 34.11,
-      "opportunity_index": 21.61
+      "opportunity_index": 21.6
     },
     {
       "date": "2011-05-03",
@@ -5278,13 +5278,13 @@
       "date": "2014-02-06",
       "price": 144.16,
       "fear_index": 84.29,
-      "opportunity_index": 90.49
+      "opportunity_index": 90.46
     },
     {
       "date": "2014-02-07",
       "price": 145.95,
       "fear_index": 78.83,
-      "opportunity_index": 81.62
+      "opportunity_index": 81.61
     },
     {
       "date": "2014-02-10",
@@ -5302,7 +5302,7 @@
       "date": "2014-02-12",
       "price": 147.89,
       "fear_index": 68.12,
-      "opportunity_index": 61.25
+      "opportunity_index": 61.24
     },
     {
       "date": "2014-02-13",
@@ -5446,19 +5446,19 @@
       "date": "2014-03-18",
       "price": 152.43,
       "fear_index": 64.15,
-      "opportunity_index": 62.38
+      "opportunity_index": 62.35
     },
     {
       "date": "2014-03-19",
       "price": 151.62,
       "fear_index": 64.95,
-      "opportunity_index": 63.04
+      "opportunity_index": 63.03
     },
     {
       "date": "2014-03-20",
       "price": 152.5,
       "fear_index": 62.36,
-      "opportunity_index": 55.71
+      "opportunity_index": 55.7
     },
     {
       "date": "2014-03-21",
@@ -5476,13 +5476,13 @@
       "date": "2014-03-25",
       "price": 152.0,
       "fear_index": 62.35,
-      "opportunity_index": 58.38
+      "opportunity_index": 58.41
     },
     {
       "date": "2014-03-26",
       "price": 150.91,
       "fear_index": 64.98,
-      "opportunity_index": 62.91
+      "opportunity_index": 62.93
     },
     {
       "date": "2014-03-27",
@@ -5500,7 +5500,7 @@
       "date": "2014-03-31",
       "price": 152.57,
       "fear_index": 59.69,
-      "opportunity_index": 55.17
+      "opportunity_index": 55.18
     },
     {
       "date": "2014-04-01",
@@ -5577,26 +5577,26 @@
     {
       "date": "2014-04-17",
       "price": 152.07,
-      "fear_index": 63.71,
-      "opportunity_index": 61.24
+      "fear_index": 63.75,
+      "opportunity_index": 61.25
     },
     {
       "date": "2014-04-18",
       "price": 152.07,
-      "fear_index": 59.95,
+      "fear_index": 59.97,
       "opportunity_index": 54.11
     },
     {
       "date": "2014-04-21",
       "price": 152.6,
-      "fear_index": 56.99,
-      "opportunity_index": 48.85
+      "fear_index": 57.0,
+      "opportunity_index": 48.86
     },
     {
       "date": "2014-04-22",
       "price": 153.29,
       "fear_index": 54.15,
-      "opportunity_index": 43.72
+      "opportunity_index": 43.73
     },
     {
       "date": "2014-04-23",
@@ -5608,13 +5608,13 @@
       "date": "2014-04-24",
       "price": 153.24,
       "fear_index": 52.97,
-      "opportunity_index": 44.01
+      "opportunity_index": 44.02
     },
     {
       "date": "2014-04-25",
       "price": 151.99,
       "fear_index": 59.22,
-      "opportunity_index": 51.79
+      "opportunity_index": 51.8
     },
     {
       "date": "2014-04-28",
@@ -6686,7 +6686,7 @@
     },
     {
       "date": "2015-01-02",
-      "price": 170.13,
+      "price": 170.12,
       "fear_index": 73.1,
       "opportunity_index": 72.58
     },
@@ -7360,31 +7360,31 @@
       "date": "2015-06-11",
       "price": 176.04,
       "fear_index": 49.58,
-      "opportunity_index": 52.87
+      "opportunity_index": 52.84
     },
     {
       "date": "2015-06-12",
       "price": 174.69,
       "fear_index": 52.3,
-      "opportunity_index": 54.6
+      "opportunity_index": 54.58
     },
     {
       "date": "2015-06-15",
       "price": 173.95,
       "fear_index": 57.47,
-      "opportunity_index": 59.32
+      "opportunity_index": 59.31
     },
     {
       "date": "2015-06-16",
       "price": 174.89,
       "fear_index": 58.03,
-      "opportunity_index": 58.37
+      "opportunity_index": 58.36
     },
     {
       "date": "2015-06-17",
       "price": 175.18,
       "fear_index": 56.24,
-      "opportunity_index": 58.94
+      "opportunity_index": 58.93
     },
     {
       "date": "2015-06-18",
@@ -8282,7 +8282,7 @@
     },
     {
       "date": "2016-01-14",
-      "price": 162.23,
+      "price": 162.22,
       "fear_index": 86.71,
       "opportunity_index": 89.56
     },
@@ -9914,7 +9914,7 @@
     },
     {
       "date": "2017-01-31",
-      "price": 196.44,
+      "price": 196.45,
       "fear_index": 36.82,
       "opportunity_index": 36.43
     },
@@ -10089,38 +10089,38 @@
     {
       "date": "2017-03-13",
       "price": 205.32,
-      "fear_index": 31.67,
-      "opportunity_index": 43.92
+      "fear_index": 31.64,
+      "opportunity_index": 43.86
     },
     {
       "date": "2017-03-14",
       "price": 204.53,
-      "fear_index": 35.6,
-      "opportunity_index": 46.99
+      "fear_index": 35.59,
+      "opportunity_index": 46.96
     },
     {
       "date": "2017-03-15",
       "price": 206.3,
       "fear_index": 33.26,
-      "opportunity_index": 39.44
+      "opportunity_index": 39.42
     },
     {
       "date": "2017-03-16",
       "price": 205.9,
       "fear_index": 31.08,
-      "opportunity_index": 36.4
+      "opportunity_index": 36.39
     },
     {
       "date": "2017-03-17",
       "price": 205.54,
       "fear_index": 30.85,
-      "opportunity_index": 37.37
+      "opportunity_index": 37.36
     },
     {
       "date": "2017-03-20",
       "price": 205.31,
       "fear_index": 32.53,
-      "opportunity_index": 39.51
+      "opportunity_index": 39.5
     },
     {
       "date": "2017-03-21",
@@ -10335,25 +10335,25 @@
     {
       "date": "2017-05-09",
       "price": 207.63,
-      "fear_index": 30.59,
-      "opportunity_index": 25.16
+      "fear_index": 30.63,
+      "opportunity_index": 25.17
     },
     {
       "date": "2017-05-10",
       "price": 208.0,
-      "fear_index": 28.5,
-      "opportunity_index": 22.1
+      "fear_index": 28.52,
+      "opportunity_index": 22.11
     },
     {
       "date": "2017-05-11",
       "price": 207.58,
-      "fear_index": 30.03,
-      "opportunity_index": 25.63
+      "fear_index": 30.04,
+      "opportunity_index": 25.64
     },
     {
       "date": "2017-05-12",
       "price": 207.23,
-      "fear_index": 32.21,
+      "fear_index": 32.22,
       "opportunity_index": 31.4
     },
     {
@@ -10754,7 +10754,7 @@
     },
     {
       "date": "2017-08-16",
-      "price": 215.18,
+      "price": 215.17,
       "fear_index": 60.87,
       "opportunity_index": 59.48
     },
@@ -10904,7 +10904,7 @@
     },
     {
       "date": "2017-09-20",
-      "price": 218.97,
+      "price": 218.98,
       "fear_index": 29.62,
       "opportunity_index": 21.55
     },
@@ -10983,32 +10983,32 @@
     {
       "date": "2017-10-09",
       "price": 222.38,
-      "fear_index": 28.48,
-      "opportunity_index": 26.08
+      "fear_index": 28.51,
+      "opportunity_index": 26.15
     },
     {
       "date": "2017-10-10",
       "price": 222.97,
-      "fear_index": 27.78,
-      "opportunity_index": 25.78
+      "fear_index": 27.8,
+      "opportunity_index": 25.81
     },
     {
       "date": "2017-10-11",
       "price": 223.32,
       "fear_index": 25.49,
-      "opportunity_index": 22.3
+      "opportunity_index": 22.32
     },
     {
       "date": "2017-10-12",
       "price": 222.99,
       "fear_index": 28.65,
-      "opportunity_index": 28.23
+      "opportunity_index": 28.24
     },
     {
       "date": "2017-10-13",
       "price": 223.26,
       "fear_index": 29.04,
-      "opportunity_index": 27.95
+      "opportunity_index": 27.96
     },
     {
       "date": "2017-10-16",
@@ -11079,20 +11079,20 @@
     {
       "date": "2017-10-31",
       "price": 225.18,
-      "fear_index": 38.56,
+      "fear_index": 38.53,
       "opportunity_index": 41.34
     },
     {
       "date": "2017-11-01",
       "price": 225.48,
-      "fear_index": 37.41,
+      "fear_index": 37.39,
       "opportunity_index": 36.72
     },
     {
       "date": "2017-11-02",
       "price": 225.57,
-      "fear_index": 36.52,
-      "opportunity_index": 33.01
+      "fear_index": 36.51,
+      "opportunity_index": 33.0
     },
     {
       "date": "2017-11-03",
@@ -11252,7 +11252,7 @@
     },
     {
       "date": "2017-12-11",
-      "price": 233.21,
+      "price": 233.2,
       "fear_index": 26.54,
       "opportunity_index": 26.92
     },
@@ -11594,7 +11594,7 @@
     },
     {
       "date": "2018-03-02",
-      "price": 236.84,
+      "price": 236.83,
       "fear_index": 84.7,
       "opportunity_index": 88.65
     },
@@ -12224,7 +12224,7 @@
     },
     {
       "date": "2018-07-27",
-      "price": 249.81,
+      "price": 249.8,
       "fear_index": 40.57,
       "opportunity_index": 42.69
     },
@@ -12267,19 +12267,19 @@
     {
       "date": "2018-08-07",
       "price": 253.5,
-      "fear_index": 33.99,
+      "fear_index": 34.02,
       "opportunity_index": 30.04
     },
     {
       "date": "2018-08-08",
       "price": 253.39,
-      "fear_index": 32.67,
+      "fear_index": 32.68,
       "opportunity_index": 29.19
     },
     {
       "date": "2018-08-09",
       "price": 253.04,
-      "fear_index": 34.94,
+      "fear_index": 34.95,
       "opportunity_index": 32.02
     },
     {
@@ -12346,19 +12346,19 @@
       "date": "2018-08-24",
       "price": 255.21,
       "fear_index": 45.01,
-      "opportunity_index": 37.72
+      "opportunity_index": 37.69
     },
     {
       "date": "2018-08-27",
       "price": 257.23,
       "fear_index": 42.48,
-      "opportunity_index": 34.36
+      "opportunity_index": 34.34
     },
     {
       "date": "2018-08-28",
       "price": 257.35,
       "fear_index": 40.11,
-      "opportunity_index": 33.26
+      "opportunity_index": 33.25
     },
     {
       "date": "2018-08-29",
@@ -13174,13 +13174,13 @@
       "date": "2019-03-07",
       "price": 246.65,
       "fear_index": 41.4,
-      "opportunity_index": 45.23
+      "opportunity_index": 45.26
     },
     {
       "date": "2019-03-08",
       "price": 246.16,
       "fear_index": 43.52,
-      "opportunity_index": 49.2
+      "opportunity_index": 49.21
     },
     {
       "date": "2019-03-11",
@@ -13772,7 +13772,7 @@
     },
     {
       "date": "2019-07-25",
-      "price": 271.56,
+      "price": 271.57,
       "fear_index": 34.63,
       "opportunity_index": 31.11
     },
@@ -13785,26 +13785,26 @@
     {
       "date": "2019-07-29",
       "price": 272.89,
-      "fear_index": 34.14,
-      "opportunity_index": 25.71
+      "fear_index": 34.11,
+      "opportunity_index": 25.65
     },
     {
       "date": "2019-07-30",
       "price": 272.22,
-      "fear_index": 37.49,
-      "opportunity_index": 31.8
+      "fear_index": 37.47,
+      "opportunity_index": 31.76
     },
     {
       "date": "2019-07-31",
       "price": 269.24,
-      "fear_index": 46.83,
-      "opportunity_index": 43.6
+      "fear_index": 46.82,
+      "opportunity_index": 43.58
     },
     {
       "date": "2019-08-01",
       "price": 266.89,
       "fear_index": 57.09,
-      "opportunity_index": 53.84
+      "opportunity_index": 53.83
     },
     {
       "date": "2019-08-02",
@@ -13822,7 +13822,7 @@
       "date": "2019-08-06",
       "price": 260.52,
       "fear_index": 73.15,
-      "opportunity_index": 74.14
+      "opportunity_index": 74.13
     },
     {
       "date": "2019-08-07",
@@ -14974,25 +14974,25 @@
       "date": "2020-05-01",
       "price": 259.95,
       "fear_index": 65.94,
-      "opportunity_index": 72.31
+      "opportunity_index": 72.33
     },
     {
       "date": "2020-05-04",
       "price": 260.67,
       "fear_index": 65.33,
-      "opportunity_index": 74.99
+      "opportunity_index": 75.0
     },
     {
       "date": "2020-05-05",
       "price": 263.08,
       "fear_index": 63.5,
-      "opportunity_index": 74.43
+      "opportunity_index": 74.44
     },
     {
       "date": "2020-05-06",
       "price": 261.29,
       "fear_index": 65.09,
-      "opportunity_index": 76.54
+      "opportunity_index": 76.55
     },
     {
       "date": "2020-05-07",
@@ -15116,7 +15116,7 @@
     },
     {
       "date": "2020-06-04",
-      "price": 286.22,
+      "price": 286.21,
       "fear_index": 35.25,
       "opportunity_index": 36.52
     },
@@ -16556,7 +16556,7 @@
     },
     {
       "date": "2021-05-11",
-      "price": 386.87,
+      "price": 386.86,
       "fear_index": 47.67,
       "opportunity_index": 45.55
     },
@@ -16587,26 +16587,26 @@
     {
       "date": "2021-05-18",
       "price": 384.74,
-      "fear_index": 56.2,
-      "opportunity_index": 56.01
+      "fear_index": 56.23,
+      "opportunity_index": 56.07
     },
     {
       "date": "2021-05-19",
       "price": 383.74,
-      "fear_index": 59.56,
-      "opportunity_index": 56.11
+      "fear_index": 59.57,
+      "opportunity_index": 56.14
     },
     {
       "date": "2021-05-20",
       "price": 387.86,
-      "fear_index": 56.8,
-      "opportunity_index": 52.63
+      "fear_index": 56.81,
+      "opportunity_index": 52.65
     },
     {
       "date": "2021-05-21",
       "price": 387.55,
       "fear_index": 57.21,
-      "opportunity_index": 53.14
+      "opportunity_index": 53.15
     },
     {
       "date": "2021-05-24",
@@ -16624,7 +16624,7 @@
       "date": "2021-05-26",
       "price": 391.4,
       "fear_index": 52.32,
-      "opportunity_index": 40.91
+      "opportunity_index": 40.92
     },
     {
       "date": "2021-05-27",
@@ -19053,26 +19053,26 @@
     {
       "date": "2022-12-14",
       "price": 381.13,
-      "fear_index": 37.68,
-      "opportunity_index": 28.02
+      "fear_index": 37.72,
+      "opportunity_index": 28.03
     },
     {
       "date": "2022-12-15",
       "price": 371.81,
-      "fear_index": 40.27,
-      "opportunity_index": 32.64
+      "fear_index": 40.29,
+      "opportunity_index": 32.65
     },
     {
       "date": "2022-12-16",
       "price": 367.42,
-      "fear_index": 43.29,
-      "opportunity_index": 36.84
+      "fear_index": 43.3,
+      "opportunity_index": 36.85
     },
     {
       "date": "2022-12-19",
       "price": 364.31,
       "fear_index": 44.98,
-      "opportunity_index": 41.2
+      "opportunity_index": 41.21
     },
     {
       "date": "2022-12-20",
@@ -19084,7 +19084,7 @@
       "date": "2022-12-21",
       "price": 370.26,
       "fear_index": 40.63,
-      "opportunity_index": 39.1
+      "opportunity_index": 39.11
     },
     {
       "date": "2022-12-22",
@@ -19221,25 +19221,25 @@
     {
       "date": "2023-01-24",
       "price": 383.65,
-      "fear_index": 23.98,
+      "fear_index": 23.95,
       "opportunity_index": 19.04
     },
     {
       "date": "2023-01-25",
       "price": 383.79,
-      "fear_index": 24.69,
-      "opportunity_index": 16.89
+      "fear_index": 24.67,
+      "opportunity_index": 16.88
     },
     {
       "date": "2023-01-26",
       "price": 388.01,
-      "fear_index": 22.53,
-      "opportunity_index": 13.53
+      "fear_index": 22.52,
+      "opportunity_index": 13.52
     },
     {
       "date": "2023-01-27",
       "price": 388.9,
-      "fear_index": 21.92,
+      "fear_index": 21.91,
       "opportunity_index": 12.71
     },
     {
@@ -24267,8 +24267,14 @@
     {
       "date": "2026-04-23",
       "price": 708.45,
-      "fear_index": 44.82,
-      "opportunity_index": 43.67
+      "fear_index": 45.01,
+      "opportunity_index": 43.7
+    },
+    {
+      "date": "2026-04-24",
+      "price": 713.94,
+      "fear_index": 42.64,
+      "opportunity_index": 41.49
     }
   ],
   "QQQ": [
@@ -24448,7 +24454,7 @@
     },
     {
       "date": "2010-11-02",
-      "price": 46.14,
+      "price": 46.15,
       "fear_index": 24.77,
       "opportunity_index": 26.97
     },
@@ -27930,19 +27936,19 @@
       "date": "2013-01-23",
       "price": 60.51,
       "fear_index": 30.66,
-      "opportunity_index": 22.46
+      "opportunity_index": 22.43
     },
     {
       "date": "2013-01-24",
       "price": 59.68,
       "fear_index": 33.12,
-      "opportunity_index": 28.21
+      "opportunity_index": 28.19
     },
     {
       "date": "2013-01-25",
       "price": 59.98,
       "fear_index": 32.18,
-      "opportunity_index": 29.41
+      "opportunity_index": 29.4
     },
     {
       "date": "2013-01-28",
@@ -27954,7 +27960,7 @@
       "date": "2013-01-29",
       "price": 60.13,
       "fear_index": 29.72,
-      "opportunity_index": 28.55
+      "opportunity_index": 28.54
     },
     {
       "date": "2013-01-30",
@@ -28157,32 +28163,32 @@
     {
       "date": "2013-03-18",
       "price": 61.34,
-      "fear_index": 34.91,
-      "opportunity_index": 28.62
+      "fear_index": 34.88,
+      "opportunity_index": 28.55
     },
     {
       "date": "2013-03-19",
       "price": 61.22,
-      "fear_index": 39.97,
-      "opportunity_index": 32.79
+      "fear_index": 39.95,
+      "opportunity_index": 32.76
     },
     {
       "date": "2013-03-20",
       "price": 61.66,
       "fear_index": 36.97,
-      "opportunity_index": 29.27
+      "opportunity_index": 29.26
     },
     {
       "date": "2013-03-21",
       "price": 60.96,
       "fear_index": 39.02,
-      "opportunity_index": 33.83
+      "opportunity_index": 33.82
     },
     {
       "date": "2013-03-22",
       "price": 61.55,
       "fear_index": 36.89,
-      "opportunity_index": 31.42
+      "opportunity_index": 31.41
     },
     {
       "date": "2013-03-25",
@@ -29394,37 +29400,37 @@
       "date": "2013-12-31",
       "price": 79.67,
       "fear_index": 29.79,
-      "opportunity_index": 32.04
+      "opportunity_index": 32.01
     },
     {
       "date": "2014-01-02",
       "price": 79.04,
       "fear_index": 40.71,
-      "opportunity_index": 44.31
+      "opportunity_index": 44.3
     },
     {
       "date": "2014-01-03",
       "price": 78.47,
-      "fear_index": 49.43,
-      "opportunity_index": 54.49
+      "fear_index": 49.4,
+      "opportunity_index": 54.42
     },
     {
       "date": "2014-01-06",
       "price": 78.18,
-      "fear_index": 54.75,
-      "opportunity_index": 60.66
+      "fear_index": 54.74,
+      "opportunity_index": 60.62
     },
     {
       "date": "2014-01-07",
       "price": 78.91,
-      "fear_index": 51.8,
-      "opportunity_index": 57.42
+      "fear_index": 51.79,
+      "opportunity_index": 57.4
     },
     {
       "date": "2014-01-08",
       "price": 79.08,
-      "fear_index": 49.11,
-      "opportunity_index": 54.81
+      "fear_index": 49.1,
+      "opportunity_index": 54.8
     },
     {
       "date": "2014-01-09",
@@ -29460,25 +29466,25 @@
       "date": "2014-01-16",
       "price": 80.05,
       "fear_index": 39.89,
-      "opportunity_index": 30.05
+      "opportunity_index": 30.08
     },
     {
       "date": "2014-01-17",
       "price": 79.6,
       "fear_index": 43.69,
-      "opportunity_index": 35.38
+      "opportunity_index": 35.39
     },
     {
       "date": "2014-01-20",
       "price": 79.6,
       "fear_index": 45.97,
-      "opportunity_index": 35.93
+      "opportunity_index": 35.94
     },
     {
       "date": "2014-01-21",
       "price": 80.2,
       "fear_index": 44.72,
-      "opportunity_index": 33.25
+      "opportunity_index": 33.26
     },
     {
       "date": "2014-01-22",
@@ -29548,7 +29554,7 @@
     },
     {
       "date": "2014-02-06",
-      "price": 77.69,
+      "price": 77.68,
       "fear_index": 80.92,
       "opportunity_index": 88.48
     },
@@ -30323,26 +30329,26 @@
     {
       "date": "2014-08-06",
       "price": 86.39,
-      "fear_index": 79.13,
-      "opportunity_index": 81.9
+      "fear_index": 79.16,
+      "opportunity_index": 81.97
     },
     {
       "date": "2014-08-07",
       "price": 86.12,
-      "fear_index": 81.17,
-      "opportunity_index": 82.86
+      "fear_index": 81.18,
+      "opportunity_index": 82.9
     },
     {
       "date": "2014-08-08",
       "price": 86.74,
-      "fear_index": 78.68,
-      "opportunity_index": 79.44
+      "fear_index": 78.69,
+      "opportunity_index": 79.46
     },
     {
       "date": "2014-08-11",
       "price": 87.25,
-      "fear_index": 75.08,
-      "opportunity_index": 74.69
+      "fear_index": 75.09,
+      "opportunity_index": 74.7
     },
     {
       "date": "2014-08-12",
@@ -30353,7 +30359,7 @@
     {
       "date": "2014-08-13",
       "price": 88.14,
-      "fear_index": 65.38,
+      "fear_index": 65.39,
       "opportunity_index": 59.61
     },
     {
@@ -31283,32 +31289,32 @@
     {
       "date": "2015-03-20",
       "price": 100.04,
-      "fear_index": 56.88,
-      "opportunity_index": 47.24
+      "fear_index": 56.91,
+      "opportunity_index": 47.3
     },
     {
       "date": "2015-03-23",
       "price": 99.84,
-      "fear_index": 54.6,
-      "opportunity_index": 46.31
+      "fear_index": 54.61,
+      "opportunity_index": 46.34
     },
     {
       "date": "2015-03-24",
       "price": 99.48,
       "fear_index": 55.06,
-      "opportunity_index": 47.67
+      "opportunity_index": 47.69
     },
     {
       "date": "2015-03-25",
       "price": 97.21,
       "fear_index": 62.94,
-      "opportunity_index": 60.16
+      "opportunity_index": 60.17
     },
     {
       "date": "2015-03-26",
       "price": 96.87,
       "fear_index": 66.03,
-      "opportunity_index": 68.09
+      "opportunity_index": 68.1
     },
     {
       "date": "2015-03-27",
@@ -31319,7 +31325,7 @@
     {
       "date": "2015-03-30",
       "price": 98.38,
-      "fear_index": 65.55,
+      "fear_index": 65.56,
       "opportunity_index": 68.93
     },
     {
@@ -32976,13 +32982,13 @@
       "date": "2016-04-21",
       "price": 103.09,
       "fear_index": 29.4,
-      "opportunity_index": 27.36
+      "opportunity_index": 27.39
     },
     {
       "date": "2016-04-22",
       "price": 101.53,
       "fear_index": 31.92,
-      "opportunity_index": 32.08
+      "opportunity_index": 32.1
     },
     {
       "date": "2016-04-25",
@@ -32994,13 +33000,13 @@
       "date": "2016-04-26",
       "price": 101.04,
       "fear_index": 36.91,
-      "opportunity_index": 40.39
+      "opportunity_index": 40.4
     },
     {
       "date": "2016-04-27",
       "price": 100.23,
       "fear_index": 40.41,
-      "opportunity_index": 44.03
+      "opportunity_index": 44.04
     },
     {
       "date": "2016-04-28",
@@ -33647,13 +33653,13 @@
     {
       "date": "2016-09-26",
       "price": 109.89,
-      "fear_index": 32.82,
+      "fear_index": 32.85,
       "opportunity_index": 32.09
     },
     {
       "date": "2016-09-27",
       "price": 110.98,
-      "fear_index": 30.09,
+      "fear_index": 30.11,
       "opportunity_index": 29.15
     },
     {
@@ -33665,7 +33671,7 @@
     {
       "date": "2016-09-29",
       "price": 110.36,
-      "fear_index": 29.95,
+      "fear_index": 29.96,
       "opportunity_index": 33.57
     },
     {
@@ -33677,7 +33683,7 @@
     {
       "date": "2016-10-03",
       "price": 111.02,
-      "fear_index": 27.07,
+      "fear_index": 27.08,
       "opportunity_index": 28.85
     },
     {
@@ -34282,7 +34288,7 @@
     },
     {
       "date": "2017-02-22",
-      "price": 122.57,
+      "price": 122.58,
       "fear_index": 26.98,
       "opportunity_index": 19.74
     },
@@ -34901,32 +34907,32 @@
     {
       "date": "2017-07-18",
       "price": 135.09,
-      "fear_index": 28.94,
-      "opportunity_index": 27.33
+      "fear_index": 28.97,
+      "opportunity_index": 27.39
     },
     {
       "date": "2017-07-19",
       "price": 135.89,
-      "fear_index": 23.99,
-      "opportunity_index": 20.7
+      "fear_index": 24.01,
+      "opportunity_index": 20.73
     },
     {
       "date": "2017-07-20",
       "price": 136.07,
-      "fear_index": 21.16,
-      "opportunity_index": 16.99
+      "fear_index": 21.17,
+      "opportunity_index": 17.01
     },
     {
       "date": "2017-07-21",
       "price": 136.01,
-      "fear_index": 22.73,
-      "opportunity_index": 19.09
+      "fear_index": 22.74,
+      "opportunity_index": 19.1
     },
     {
       "date": "2017-07-24",
       "price": 136.63,
-      "fear_index": 20.29,
-      "opportunity_index": 16.42
+      "fear_index": 20.3,
+      "opportunity_index": 16.43
     },
     {
       "date": "2017-07-25",
@@ -35027,13 +35033,13 @@
     {
       "date": "2017-08-16",
       "price": 136.17,
-      "fear_index": 59.7,
+      "fear_index": 59.67,
       "opportunity_index": 58.37
     },
     {
       "date": "2017-08-17",
       "price": 133.39,
-      "fear_index": 70.98,
+      "fear_index": 70.97,
       "opportunity_index": 68.29
     },
     {
@@ -38417,20 +38423,20 @@
     {
       "date": "2019-10-21",
       "price": 185.97,
-      "fear_index": 31.56,
-      "opportunity_index": 30.84
+      "fear_index": 31.57,
+      "opportunity_index": 30.88
     },
     {
       "date": "2019-10-22",
       "price": 184.49,
-      "fear_index": 31.4,
-      "opportunity_index": 34.45
+      "fear_index": 31.41,
+      "opportunity_index": 34.47
     },
     {
       "date": "2019-10-23",
       "price": 184.85,
-      "fear_index": 31.58,
-      "opportunity_index": 34.71
+      "fear_index": 31.59,
+      "opportunity_index": 34.72
     },
     {
       "date": "2019-10-24",
@@ -38442,7 +38448,7 @@
       "date": "2019-10-25",
       "price": 188.13,
       "fear_index": 22.99,
-      "opportunity_index": 22.44
+      "opportunity_index": 22.45
     },
     {
       "date": "2019-10-28",
@@ -38459,26 +38465,26 @@
     {
       "date": "2019-10-30",
       "price": 189.43,
-      "fear_index": 19.03,
-      "opportunity_index": 18.47
+      "fear_index": 19.06,
+      "opportunity_index": 18.53
     },
     {
       "date": "2019-10-31",
       "price": 189.52,
-      "fear_index": 19.95,
-      "opportunity_index": 19.66
+      "fear_index": 19.97,
+      "opportunity_index": 19.7
     },
     {
       "date": "2019-11-01",
       "price": 191.24,
-      "fear_index": 17.06,
-      "opportunity_index": 16.76
+      "fear_index": 17.07,
+      "opportunity_index": 16.78
     },
     {
       "date": "2019-11-04",
       "price": 192.42,
-      "fear_index": 15.74,
-      "opportunity_index": 16.14
+      "fear_index": 15.75,
+      "opportunity_index": 16.15
     },
     {
       "date": "2019-11-05",
@@ -38766,25 +38772,25 @@
       "date": "2020-01-10",
       "price": 210.51,
       "fear_index": 27.08,
-      "opportunity_index": 25.04
+      "opportunity_index": 25.01
     },
     {
       "date": "2020-01-13",
       "price": 212.93,
       "fear_index": 24.91,
-      "opportunity_index": 20.76
+      "opportunity_index": 20.74
     },
     {
       "date": "2020-01-14",
       "price": 212.1,
       "fear_index": 28.11,
-      "opportunity_index": 23.56
+      "opportunity_index": 23.55
     },
     {
       "date": "2020-01-15",
       "price": 212.18,
       "fear_index": 29.82,
-      "opportunity_index": 26.33
+      "opportunity_index": 26.32
     },
     {
       "date": "2020-01-16",
@@ -41200,7 +41206,7 @@
     },
     {
       "date": "2021-08-05",
-      "price": 359.15,
+      "price": 359.16,
       "fear_index": 43.34,
       "opportunity_index": 34.99
     },
@@ -43032,13 +43038,13 @@
       "date": "2022-10-06",
       "price": 273.8,
       "fear_index": 64.94,
-      "opportunity_index": 66.73
+      "opportunity_index": 66.7
     },
     {
       "date": "2022-10-07",
       "price": 263.37,
       "fear_index": 71.43,
-      "opportunity_index": 71.0
+      "opportunity_index": 70.99
     },
     {
       "date": "2022-10-10",
@@ -45503,19 +45509,19 @@
     {
       "date": "2024-05-08",
       "price": 435.28,
-      "fear_index": 55.24,
+      "fear_index": 55.21,
       "opportunity_index": 43.26
     },
     {
       "date": "2024-05-09",
       "price": 436.23,
-      "fear_index": 52.95,
-      "opportunity_index": 39.66
+      "fear_index": 52.93,
+      "opportunity_index": 39.65
     },
     {
       "date": "2024-05-10",
       "price": 437.26,
-      "fear_index": 50.7,
+      "fear_index": 50.69,
       "opportunity_index": 38.42
     },
     {
@@ -45527,7 +45533,7 @@
     {
       "date": "2024-05-14",
       "price": 441.09,
-      "fear_index": 49.36,
+      "fear_index": 49.35,
       "opportunity_index": 38.38
     },
     {
@@ -45701,20 +45707,20 @@
     {
       "date": "2024-06-24",
       "price": 469.56,
-      "fear_index": 43.54,
-      "opportunity_index": 44.31
+      "fear_index": 43.48,
+      "opportunity_index": 44.3
     },
     {
       "date": "2024-06-25",
       "price": 474.93,
-      "fear_index": 43.29,
-      "opportunity_index": 44.15
+      "fear_index": 43.26,
+      "opportunity_index": 44.14
     },
     {
       "date": "2024-06-26",
       "price": 475.91,
-      "fear_index": 40.77,
-      "opportunity_index": 42.24
+      "fear_index": 40.76,
+      "opportunity_index": 42.23
     },
     {
       "date": "2024-06-27",
@@ -45725,14 +45731,14 @@
     {
       "date": "2024-06-28",
       "price": 474.66,
-      "fear_index": 34.29,
-      "opportunity_index": 37.67
+      "fear_index": 34.28,
+      "opportunity_index": 37.66
     },
     {
       "date": "2024-07-01",
       "price": 477.44,
       "fear_index": 29.71,
-      "opportunity_index": 32.28
+      "opportunity_index": 32.27
     },
     {
       "date": "2024-07-02",
@@ -45994,13 +46000,13 @@
     },
     {
       "date": "2024-08-30",
-      "price": 471.84,
+      "price": 471.85,
       "fear_index": 61.5,
       "opportunity_index": 73.03
     },
     {
       "date": "2024-09-02",
-      "price": 471.84,
+      "price": 471.85,
       "fear_index": 58.6,
       "opportunity_index": 69.91
     },
@@ -47494,7 +47500,7 @@
     },
     {
       "date": "2025-08-18",
-      "price": 574.97,
+      "price": 574.98,
       "fear_index": 28.39,
       "opportunity_index": 27.06
     },
@@ -48539,8 +48545,14 @@
     {
       "date": "2026-04-23",
       "price": 651.42,
-      "fear_index": 42.2,
-      "opportunity_index": 39.35
+      "fear_index": 42.39,
+      "opportunity_index": 39.39
+    },
+    {
+      "date": "2026-04-24",
+      "price": 663.88,
+      "fear_index": 40.28,
+      "opportunity_index": 36.18
     }
   ],
   "^TWII": [
@@ -55747,13 +55759,13 @@
     {
       "date": "2015-05-06",
       "price": 9818.16,
-      "fear_index": 32.03,
+      "fear_index": 32.06,
       "opportunity_index": 48.22
     },
     {
       "date": "2015-05-07",
       "price": 9704.07,
-      "fear_index": 37.1,
+      "fear_index": 37.12,
       "opportunity_index": 53.92
     },
     {
@@ -72810,9 +72822,15 @@
     },
     {
       "date": "2026-04-23",
-      "price": 37878.47,
-      "fear_index": 32.13,
-      "opportunity_index": 35.25
+      "price": 37714.15,
+      "fear_index": 34.22,
+      "opportunity_index": 39.67
+    },
+    {
+      "date": "2026-04-24",
+      "price": 37714.15,
+      "fear_index": 35.32,
+      "opportunity_index": 41.04
     }
   ],
   "0050.TW": [
@@ -74600,7 +74618,7 @@
     },
     {
       "date": "2011-11-11",
-      "price": 31.7,
+      "price": 31.69,
       "fear_index": 69.74,
       "opportunity_index": 72.04
     },
@@ -75099,26 +75117,26 @@
     {
       "date": "2012-03-07",
       "price": 33.87,
-      "fear_index": 29.01,
-      "opportunity_index": 33.66
+      "fear_index": 28.98,
+      "opportunity_index": 33.59
     },
     {
       "date": "2012-03-08",
       "price": 34.06,
-      "fear_index": 27.91,
-      "opportunity_index": 33.85
+      "fear_index": 27.9,
+      "opportunity_index": 33.81
     },
     {
       "date": "2012-03-09",
       "price": 34.22,
       "fear_index": 25.05,
-      "opportunity_index": 31.04
+      "opportunity_index": 31.02
     },
     {
       "date": "2012-03-12",
       "price": 33.84,
       "fear_index": 24.28,
-      "opportunity_index": 29.46
+      "opportunity_index": 29.45
     },
     {
       "date": "2012-03-13",
@@ -75130,7 +75148,7 @@
       "date": "2012-03-14",
       "price": 34.81,
       "fear_index": 17.25,
-      "opportunity_index": 17.35
+      "opportunity_index": 17.34
     },
     {
       "date": "2012-03-15",
@@ -75740,7 +75758,7 @@
     },
     {
       "date": "2012-08-03",
-      "price": 31.7,
+      "price": 31.69,
       "fear_index": 29.9,
       "opportunity_index": 21.94
     },
@@ -76142,7 +76160,7 @@
     },
     {
       "date": "2012-11-06",
-      "price": 31.7,
+      "price": 31.69,
       "fear_index": 59.54,
       "opportunity_index": 58.68
     },
@@ -76166,7 +76184,7 @@
     },
     {
       "date": "2012-11-12",
-      "price": 31.7,
+      "price": 31.69,
       "fear_index": 61.25,
       "opportunity_index": 58.41
     },
@@ -77632,19 +77650,19 @@
       "date": "2013-10-21",
       "price": 36.74,
       "fear_index": 34.24,
-      "opportunity_index": 26.56
+      "opportunity_index": 26.59
     },
     {
       "date": "2013-10-22",
       "price": 36.74,
       "fear_index": 33.72,
-      "opportunity_index": 26.03
+      "opportunity_index": 26.04
     },
     {
       "date": "2013-10-23",
       "price": 36.55,
       "fear_index": 36.01,
-      "opportunity_index": 28.34
+      "opportunity_index": 28.35
     },
     {
       "date": "2013-10-24",
@@ -84406,13 +84424,13 @@
       "date": "2018-03-01",
       "price": 15.92,
       "fear_index": 81.32,
-      "opportunity_index": 78.66
+      "opportunity_index": 78.63
     },
     {
       "date": "2018-03-02",
       "price": 15.8,
       "fear_index": 83.87,
-      "opportunity_index": 84.29
+      "opportunity_index": 84.27
     },
     {
       "date": "2018-03-05",
@@ -84424,13 +84442,13 @@
       "date": "2018-03-06",
       "price": 16.0,
       "fear_index": 81.7,
-      "opportunity_index": 86.02
+      "opportunity_index": 86.01
     },
     {
       "date": "2018-03-07",
       "price": 15.93,
       "fear_index": 77.69,
-      "opportunity_index": 85.23
+      "opportunity_index": 85.22
     },
     {
       "date": "2018-03-08",
@@ -85528,25 +85546,25 @@
       "date": "2018-11-19",
       "price": 15.06,
       "fear_index": 85.28,
-      "opportunity_index": 87.47
+      "opportunity_index": 87.44
     },
     {
       "date": "2018-11-20",
       "price": 14.93,
       "fear_index": 86.63,
-      "opportunity_index": 88.65
+      "opportunity_index": 88.63
     },
     {
       "date": "2018-11-21",
       "price": 14.93,
       "fear_index": 84.82,
-      "opportunity_index": 88.91
+      "opportunity_index": 88.9
     },
     {
       "date": "2018-11-22",
       "price": 14.85,
       "fear_index": 82.66,
-      "opportunity_index": 89.42
+      "opportunity_index": 89.41
     },
     {
       "date": "2018-11-23",
@@ -85905,19 +85923,19 @@
     {
       "date": "2019-02-15",
       "price": 15.2,
-      "fear_index": 47.2,
+      "fear_index": 47.23,
       "opportunity_index": 35.81
     },
     {
       "date": "2019-02-18",
       "price": 15.32,
-      "fear_index": 46.21,
-      "opportunity_index": 34.96
+      "fear_index": 46.23,
+      "opportunity_index": 34.97
     },
     {
       "date": "2019-02-19",
       "price": 15.29,
-      "fear_index": 44.64,
+      "fear_index": 44.65,
       "opportunity_index": 36.07
     },
     {
@@ -85984,7 +86002,7 @@
       "date": "2019-03-06",
       "price": 15.58,
       "fear_index": 32.27,
-      "opportunity_index": 34.88
+      "opportunity_index": 34.89
     },
     {
       "date": "2019-03-07",
@@ -87892,25 +87910,25 @@
       "date": "2020-05-26",
       "price": 17.81,
       "fear_index": 56.5,
-      "opportunity_index": 66.31
+      "opportunity_index": 66.34
     },
     {
       "date": "2020-05-27",
       "price": 17.78,
       "fear_index": 56.47,
-      "opportunity_index": 65.32
+      "opportunity_index": 65.33
     },
     {
       "date": "2020-05-28",
       "price": 17.68,
       "fear_index": 59.03,
-      "opportunity_index": 67.8
+      "opportunity_index": 67.81
     },
     {
       "date": "2020-05-29",
       "price": 17.81,
       "fear_index": 59.39,
-      "opportunity_index": 64.45
+      "opportunity_index": 64.46
     },
     {
       "date": "2020-06-01",
@@ -87928,7 +87946,7 @@
       "date": "2020-06-03",
       "price": 18.3,
       "fear_index": 46.92,
-      "opportunity_index": 47.09
+      "opportunity_index": 47.1
     },
     {
       "date": "2020-06-04",
@@ -88660,19 +88678,19 @@
       "date": "2020-11-20",
       "price": 24.21,
       "fear_index": 27.24,
-      "opportunity_index": 22.12
+      "opportunity_index": 22.15
     },
     {
       "date": "2020-11-23",
       "price": 24.52,
       "fear_index": 23.59,
-      "opportunity_index": 21.24
+      "opportunity_index": 21.26
     },
     {
       "date": "2020-11-24",
       "price": 24.4,
       "fear_index": 21.5,
-      "opportunity_index": 23.44
+      "opportunity_index": 23.45
     },
     {
       "date": "2020-11-25",
@@ -88684,7 +88702,7 @@
       "date": "2020-11-26",
       "price": 24.39,
       "fear_index": 19.27,
-      "opportunity_index": 27.68
+      "opportunity_index": 27.69
     },
     {
       "date": "2020-11-27",
@@ -89332,19 +89350,19 @@
       "date": "2021-04-30",
       "price": 30.51,
       "fear_index": 43.56,
-      "opportunity_index": 31.56
+      "opportunity_index": 31.53
     },
     {
       "date": "2021-05-03",
       "price": 30.0,
       "fear_index": 48.06,
-      "opportunity_index": 41.17
+      "opportunity_index": 41.15
     },
     {
       "date": "2021-05-04",
       "price": 29.74,
       "fear_index": 51.75,
-      "opportunity_index": 48.36
+      "opportunity_index": 48.35
     },
     {
       "date": "2021-05-05",
@@ -89362,7 +89380,7 @@
       "date": "2021-05-07",
       "price": 30.25,
       "fear_index": 53.17,
-      "opportunity_index": 50.84
+      "opportunity_index": 50.83
     },
     {
       "date": "2021-05-10",
@@ -94708,31 +94726,31 @@
       "date": "2024-10-09",
       "price": 45.64,
       "fear_index": 61.54,
-      "opportunity_index": 68.77
+      "opportunity_index": 68.8
     },
     {
       "date": "2024-10-10",
       "price": 45.64,
       "fear_index": 61.23,
-      "opportunity_index": 66.98
+      "opportunity_index": 67.02
     },
     {
       "date": "2024-10-11",
       "price": 46.4,
       "fear_index": 58.14,
-      "opportunity_index": 60.86
+      "opportunity_index": 60.88
     },
     {
       "date": "2024-10-14",
       "price": 46.43,
       "fear_index": 54.34,
-      "opportunity_index": 53.58
+      "opportunity_index": 53.59
     },
     {
       "date": "2024-10-15",
       "price": 47.42,
       "fear_index": 53.57,
-      "opportunity_index": 47.9
+      "opportunity_index": 47.91
     },
     {
       "date": "2024-10-16",
@@ -94744,7 +94762,7 @@
       "date": "2024-10-17",
       "price": 46.67,
       "fear_index": 59.52,
-      "opportunity_index": 57.48
+      "opportunity_index": 57.49
     },
     {
       "date": "2024-10-18",
@@ -96952,25 +96970,25 @@
       "date": "2026-03-23",
       "price": 74.25,
       "fear_index": 67.31,
-      "opportunity_index": 77.58
+      "opportunity_index": 77.61
     },
     {
       "date": "2026-03-24",
       "price": 74.4,
       "fear_index": 69.75,
-      "opportunity_index": 80.16
+      "opportunity_index": 80.18
     },
     {
       "date": "2026-03-25",
       "price": 76.2,
       "fear_index": 68.73,
-      "opportunity_index": 79.55
+      "opportunity_index": 79.56
     },
     {
       "date": "2026-03-26",
       "price": 75.8,
       "fear_index": 69.39,
-      "opportunity_index": 78.94
+      "opportunity_index": 78.95
     },
     {
       "date": "2026-03-27",
@@ -97083,8 +97101,14 @@
     {
       "date": "2026-04-23",
       "price": 86.35,
-      "fear_index": 34.48,
-      "opportunity_index": 37.6
+      "fear_index": 34.68,
+      "opportunity_index": 37.64
+    },
+    {
+      "date": "2026-04-24",
+      "price": 86.35,
+      "fear_index": 35.12,
+      "opportunity_index": 36.79
     }
   ]
 }
