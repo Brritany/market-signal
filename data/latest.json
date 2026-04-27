@@ -1,43 +1,43 @@
 {
-  "updated_at": "2026-04-24",
+  "updated_at": "2026-04-27",
   "markets": [
     {
       "symbol": "SPY",
       "name": "S&P 500 ETF",
-      "price": 713.94,
-      "fear_index": 42.64,
+      "price": 715.17,
+      "fear_index": 40.12,
       "regime": "Caution",
-      "opportunity_index": 41.49,
+      "opportunity_index": 38.5,
       "opportunity_regime": "Neutral",
       "signal": "No Action"
     },
     {
       "symbol": "QQQ",
       "name": "Nasdaq 100 ETF",
-      "price": 663.88,
-      "fear_index": 40.28,
+      "price": 664.23,
+      "fear_index": 38.24,
       "regime": "Caution",
-      "opportunity_index": 36.18,
+      "opportunity_index": 33.37,
       "opportunity_regime": "Neutral",
       "signal": "No Action"
     },
     {
       "symbol": "^TWII",
       "name": "Taiwan Weighted Index",
-      "price": 37714.15,
-      "fear_index": 35.32,
+      "price": 38932.4,
+      "fear_index": 30.86,
       "regime": "Caution",
-      "opportunity_index": 41.04,
+      "opportunity_index": 31.82,
       "opportunity_regime": "Neutral",
       "signal": "No Action"
     },
     {
       "symbol": "0050.TW",
       "name": "Yuanta Taiwan 50 ETF",
-      "price": 86.35,
-      "fear_index": 35.12,
+      "price": 93.0,
+      "fear_index": 31.01,
       "regime": "Caution",
-      "opportunity_index": 36.79,
+      "opportunity_index": 31.17,
       "opportunity_regime": "Neutral",
       "signal": "No Action"
     }
